@@ -44,7 +44,7 @@ theme: dark
 color: slate #Optional - to disable color picker in the bottom
 ```
 3. [Click here to install.](https://github.com/Gandalf-the-Blue/homepage-catppuccin/raw/main/catppuccin.user.css)
-
+						
 &nbsp;
 
 <p align="center">
