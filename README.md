@@ -20,29 +20,30 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://github.com/Gandalf-the-Blue/homepage-catppuccin/blob/main/assets/latte.png"/>
+<img src="https://github.com/Gandalf-the-Blue/homepage-catppuccin/blob/main/assets/latte.png?raw=true"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://github.com/Gandalf-the-Blue/homepage-catppuccin/blob/main/assets/frappe.png"/>
+<img src="https://github.com/Gandalf-the-Blue/homepage-catppuccin/blob/main/assets/frappe.png?raw=true"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://github.com/Gandalf-the-Blue/homepage-catppuccin/blob/main/assets/macchiato.png"/>
+<img src="https://github.com/Gandalf-the-Blue/homepage-catppuccin/blob/main/assets/macchiato.png?raw=true"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://github.com/Gandalf-the-Blue/homepage-catppuccin/blob/main/assets/mocha.png"/>
+<img src="https://github.com/Gandalf-the-Blue/homepage-catppuccin/blob/main/assets/mocha.png?raw=true"/>
 </details>
 
 ## Usage
 
 1. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
-2. [Click here to install.](https://github.com/Gandalf-the-Blue/homepage-catppuccin/raw/main/catppuccin.user.css)
-
-## 💝 Thanks to
-
-- [Gandalf-the-Blue](https://github.com/Gandalf-the-Blue)
+2. In your homepage config folder set the following properties in settings.yaml
+```
+theme: dark
+color: slate #Optional - to disable color picker in the bottom
+```
+3. [Click here to install.](https://github.com/Gandalf-the-Blue/homepage-catppuccin/raw/main/catppuccin.user.css)
 
 &nbsp;
 
