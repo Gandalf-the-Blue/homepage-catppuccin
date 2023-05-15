@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/Gandalf-the-Blue/homepage-catppuccin/blob/main/assets/preview.png"/>
+	<img src="https://github.com/Gandalf-the-Blue/homepage-catppuccin/blob/main/assets/preview.webp"/>
 </p>
 
 ## Previews
